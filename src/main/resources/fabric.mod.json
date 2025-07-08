@@ -14,7 +14,7 @@
       "ru.kochkaev.zixamc.easyauthintegration.ZixaMCEasyAuthIntegration"
     ]
   },
-  "mixin": [
+  "mixins": [
     "zixamc-easyauthintegration.mixins.json"
   ],
   "depends": {
